@@ -17,7 +17,7 @@ pipeline {
 
         stage('Run Tests') {
             steps {
-                bat 'C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe -m pip install playwright pytest pytest-json-report'
+                bat 'C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe -m pytest --html=report.html --self-contained-html'
             }
         }
     }
