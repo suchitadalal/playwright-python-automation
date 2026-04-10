@@ -5,19 +5,19 @@ pipeline {
 
         stage('Install Dependencies') {
             steps {
-                bat 'pip install -r requirements.txt'
+                bat 'C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe -m pip install -r requirements.txt'
             }
         }
 
         stage('Install Playwright Browsers') {
             steps {
-                bat 'playwright install'
+                bat 'C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe -m playwright install'
             }
         }
 
         stage('Run Tests') {
             steps {
-                bat 'pytest --html=report.html'
+                bat 'C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe -m pip install playwright pytest pytest-json-report'
             }
         }
     }
