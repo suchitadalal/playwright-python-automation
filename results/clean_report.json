@@ -1,0 +1,22 @@
+[
+    {
+        "test_name": "test_fill_textbox_with_valid_data",
+        "outcome": "error",
+        "duration": null
+    },
+    {
+        "test_name": "test_fill_textbox_with_empty_fields",
+        "outcome": "error",
+        "duration": null
+    },
+    {
+        "test_name": "test_fill_textbox_email_validation",
+        "outcome": "error",
+        "duration": null
+    },
+    {
+        "test_name": "test_clear_textbox_fields",
+        "outcome": "error",
+        "duration": null
+    }
+]

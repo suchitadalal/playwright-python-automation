@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "currentAddress": "123 Maple Street, Springfield",
+    "permanentAddress": "456 Oak Avenue, Shelbyville"
+  },
+  {
+    "fullName": "Brian Smith",
+    "email": "brian.smith@example.com",
+    "currentAddress": "789 Pine Road, Rivertown",
+    "permanentAddress": "321 Cedar Lane, Lakeside"
+  },
+  {
+    "fullName": "Carmen Lee",
+    "email": "carmen.lee@example.com",
+    "currentAddress": "12 Birch Boulevard, Mountainview",
+    "permanentAddress": "98 Elm Street, Valleydale"
+  },
+  {
+    "fullName": "David Nguyen",
+    "email": "david.nguyen@example.com",
+    "currentAddress": "555 Willow Drive, Oceanside",
+    "permanentAddress": "101 Spruce Court, Meadowbrook"
+  },
+  {
+    "fullName": "Emma Patel",
+    "email": "emma.patel@example.com",
+    "currentAddress": "202 Aspen Way, Greenfield",
+    "permanentAddress": "303 Poplar Street, Brookside"
+  }
+]
