@@ -2,4 +2,4 @@ playwright
 pytest
 python-dotenv
 pytest-html
-python include version
+pytest-json-report
